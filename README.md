@@ -1,6 +1,4 @@
-# daily-dev-sprints
-
-# 🚀 Daily Code Journey –
+# 🚀 Daily Code Journey :
 
 Welcome to my daily coding practice! I'm dedicating time each day to:
 - ✅ Solve at least 1 DSA problem
